@@ -25,14 +25,14 @@
 
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(240, 1%, 25%) 3%, 
-    hsl(0, 0%, 19%) 97%
-  );
-  --bg-gradient-jet: linear-gradient(
+    hsl(25, 25%, 26%) 3%, 
+    hsl(20, 30%, 18%) 97%
+);
+--bg-gradient-jet: linear-gradient(
     to bottom right, 
-    hsla(240, 1%, 18%, 0.251) 0%, 
-    hsla(240, 2%, 11%, 0) 100%
-  ), hsl(240, 2%, 13%);
+    hsla(25, 25%, 20%, 0.251) 0%, 
+    hsla(25, 30%, 12%, 0) 100%
+), hsl(25, 28%, 14%);
   --bg-gradient-yellow-1: linear-gradient(
     to bottom right, 
     hsl(45, 100%, 71%) 0%, 
@@ -45,8 +45,8 @@
   ), hsl(240, 2%, 13%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(0, 0%, 25%) 0%, 
-    hsla(0, 0%, 25%, 0) 50%
+    hsl(25, 25%, 28%) 0%, 
+    hsla(25, 25%, 28%, 0) 50%
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
@@ -56,11 +56,11 @@
 
   /* solid */
 
-  --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(240, 1%, 17%);
-  --eerie-black-1: hsl(240, 2%, 13%);
-  --eerie-black-2: hsl(240, 2%, 12%);
-  --smoky-black: hsl(0, 0%, 7%);
+  --jet: hsl(25, 22%, 26%);
+  --onyx: hsl(25, 24%, 20%);
+  --eerie-black-1: hsl(25, 28%, 15%);
+  --eerie-black-2: hsl(25, 28%, 13%);
+  --smoky-black: hsl(20, 35%, 9%);
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   --orange-yellow-crayola: hsl(45, 100%, 72%);
