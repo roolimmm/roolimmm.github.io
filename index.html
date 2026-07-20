@@ -405,7 +405,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="applications">
-              <a href="#">
+              <a href="#" class="project-link" data-project="outbreak">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -415,7 +415,7 @@
                   <img src="./assets/images/project-4.png" alt="brawlhalla" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Brawlhalla</h3>
+                <h3 class="project-title">OutBreak</h3>
 
                 <p class="project-category">Applications</p>
 
@@ -565,12 +565,29 @@
 
 
 
+  <div class="project-modal" data-modal>
+   <div class="project-modal-overlay" data-modal-close></div>
+   <div class="project-modal-content">
+     <button class="project-modal-close-btn" data-modal-close>
+       <ion-icon name="close-outline"></ion-icon>
+     </button>
 
+     <h3 class="modal-title"></h3>
+     <p class="modal-description"></p>
+
+     <div class="modal-gallery"></div>
+   </div>
+ </div>
+
+
+
+  
 
   <!--
     - custom js link
   -->
   <script src="./assets/js/script.js"></script>
+  <script src="./assets/js/projects.js"></script>
 
   <!--
     - ionicon link
