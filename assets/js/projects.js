@@ -13,13 +13,17 @@ const projectData = {
       "./assets/images/outbreak_still2.png"
     ]
   },
-  finance: {
-    title: "Finance",
-    description: "Add your description here.",
+
+  rytbookstore: {
+    title: "RyT Bookstore",
+    description: "RyT Bookstore is a full-stack e-commerce website built from scratch with a partner for a school project, using MySQL for the database and Apache Tomcat as the server environment. The site lets users browse and search for books, add items to a functional shopping cart, and complete purchases through a checkout page.",
     images: [
-      "./assets/images/finance-1.png"
+      "./assets/images/rytbookstore_still1.png",
+      "./assets/images/rytbookstore_still2.png",
+      "./assets/images/rytbookstore_still3.png"
     ]
   }
+
   // add the rest of your projects here, keyed by data-project value
 };
 
