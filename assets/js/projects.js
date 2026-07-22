@@ -61,3 +61,26 @@ for (const btn of modalCloseBtns) {
     modal.classList.remove("active");
   });
 }
+
+
+
+
+
+
+const lightbox = document.querySelector("[data-lightbox]");
+const lightboxImg = document.querySelector(".image-lightbox-img");
+const lightboxCloseBtns = document.querySelectorAll("[data-lightbox-close]");
+
+modalGallery.addEventListener("click", function (e) {
+  if (e.target.tagName === "IMG") {
+    lightboxImg.src = e.target.src;
+    lightboxImg.alt = e.target.alt;
+    lightbox.classList.add("active");
+  }
+});
+
+for (const btn of lightboxCloseBtns) {
+  btn.addEventListener("click", function () {
+    lightbox.classList.remove("active");
+  });
+}
