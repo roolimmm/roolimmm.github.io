@@ -31,7 +31,7 @@ const projectData = {
       "./assets/images/bahoot_still1.png",
       "./assets/images/bahoot_still2.png",
       "./assets/images/bahoot_still3.png",
-      "./assets/images/bahoot_still4.png",
+      "./assets/images/bahoot_still4.png"
     ]
   }
 };
