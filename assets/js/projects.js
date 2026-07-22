@@ -22,7 +22,7 @@ const projectData = {
       "./assets/images/rytbookstore_still2.png",
       "./assets/images/rytbookstore_still3.png"
     ]
-  }
+  },
 
   bahoot: {
     title: "BaHoot!",
