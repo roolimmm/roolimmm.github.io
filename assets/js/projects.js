@@ -8,7 +8,7 @@ const projectData = {
     title: "OutBreak",
     description: "OutBreak is a horror-inspired game built in Unity, developed with a teammate as part of a school design project. I designed the layout of the game's map, shaping the environment and spatial flow to build tension and guide player movement, and contributed to parts of the user interface.",
     images: [
-      "./assets/images/outbreak_layout.png",
+      "./assets/images/outbreak_layout.jpg",
       "./assets/images/outbreak_still1.png",
       "./assets/images/outbreak_still2.png"
     ]
