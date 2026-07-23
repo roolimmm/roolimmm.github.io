@@ -16,7 +16,7 @@ const projectData = {
 
   rytbookstore: {
     title: "RyT Bookstore",
-    description: "RyT Bookstore is a full-stack e-commerce website built from scratch with a partner for a school project, using MySQL for the database and Apache Tomcat as the server environment. The site lets users browse and search for books, add items to a functional shopping cart, and complete purchases through a checkout page.",
+    description: "RyT Bookstore is a full-stack e-commerce website built from scratch, using MySQL for the database and Apache Tomcat as the server environment. The site lets users browse and search for books, add items to a functional shopping cart, and complete purchases through a checkout page.",
     images: [
       "./assets/images/rytbookstore_still1.png",
       "./assets/images/rytbookstore_still2.png",
@@ -26,7 +26,7 @@ const projectData = {
 
   bahoot: {
     title: "BaHoot!",
-    description: "BaHoot! is a Kahoot-inspired Android mobile app co-created with a friend for a school design project. Users answer 5 trivia questions by selecting from multiple-choice options (A–D), with live statistics and results reflected on a companion web browser dashboard.",
+    description: "BaHoot! is a Kahoot-inspired Android mobile app. Users answer 5 trivia questions by selecting from multiple-choice options (A–D), with live statistics and results reflected on a companion web browser dashboard.",
     images: [
       "./assets/images/bahoot_still1.png",
       "./assets/images/bahoot_still2.png",
