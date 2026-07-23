@@ -1240,6 +1240,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .form-btn ion-icon { font-size: 18px; }
 
+  .contact-images img { height: 200px; }
+
 }
 
 
@@ -1339,6 +1341,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     width: max-content;
     margin-left: auto;
   }
+  
+  .contact-images img { height: 240px; }
   
 }
 
