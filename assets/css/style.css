@@ -1343,7 +1343,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
   
   .contact-images img { height: 240px; }
-  
+  .contact-images { margin-top: 50px; }
+
 }
 
 
