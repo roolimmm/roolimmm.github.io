@@ -26,7 +26,7 @@ const projectData = {
 
   bahoot: {
     title: "BaHoot!",
-    description: "BaHoot! is a Kahoot-inspired Android mobile app co-created with a friend for a school design project. Users answer a 5 trivia questions by selecting from multiple-choice options (A–D) directly on the app, with live statistics and results reflected on a companion web browser dashboard.",
+    description: "BaHoot! is a Kahoot-inspired Android mobile app co-created with a friend for a school design project. Users answer 5 trivia questions by selecting from multiple-choice options (A–D), with live statistics and results reflected on a companion web browser dashboard.",
     images: [
       "./assets/images/bahoot_still1.png",
       "./assets/images/bahoot_still2.png",
